@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="take_or_upload_photo">Tomar o subir foto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="guardar">Guardar</string>
+    <string name="ver_registros">Ver registros</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
